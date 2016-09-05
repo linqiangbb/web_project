@@ -24,8 +24,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     This is my JSP page. 1111111111111111111ddddddddddddddddd4444444444444
     
     我是林强2
+<<<<<<< HEAD
  ------------------------------
    我是林强1administrator
    阿斯顿发斯蒂芬
+=======
+  -------------
+  我是林强21
+>>>>>>> branch 'master' of https://github.com/linqiangbb/web_project.git
   </body>
 </html>
